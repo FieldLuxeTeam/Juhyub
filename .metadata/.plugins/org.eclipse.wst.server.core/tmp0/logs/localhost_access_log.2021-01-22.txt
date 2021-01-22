@@ -1,0 +1,8 @@
+127.0.0.1 - - [22/Jan/2021:13:05:20 +0900] "GET / HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [22/Jan/2021:13:05:24 +0900] "GET /fieldluxe/ HTTP/1.1" 200 12442
+0:0:0:0:0:0:0:1 - - [22/Jan/2021:13:05:24 +0900] "GET /fieldluxe/img/logo.png;jsessionid=A8FAA3AC6CABDE19E6A16CCF69626D96 HTTP/1.1" 200 77096
+0:0:0:0:0:0:0:1 - - [22/Jan/2021:13:05:24 +0900] "GET /fieldluxe/img/handbag1.jpg HTTP/1.1" 200 243936
+0:0:0:0:0:0:0:1 - - [22/Jan/2021:13:05:24 +0900] "GET /fieldluxe/img/handbag3.jpg HTTP/1.1" 200 161271
+0:0:0:0:0:0:0:1 - - [22/Jan/2021:13:05:24 +0900] "GET /fieldluxe/img/handbag2.jpg HTTP/1.1" 200 164370
+0:0:0:0:0:0:0:1 - - [22/Jan/2021:13:05:27 +0900] "GET /fieldluxe/inquiry/list;jsessionid=A8FAA3AC6CABDE19E6A16CCF69626D96 HTTP/1.1" 200 15193
+0:0:0:0:0:0:0:1 - - [22/Jan/2021:13:05:27 +0900] "GET /fieldluxe/img/logo.png HTTP/1.1" 200 77096
